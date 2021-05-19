@@ -207,7 +207,7 @@ The following example shows a response where an error has occurred:
 
 ```
 {
-    "error": "APIGateway.403", 
+    "error": "ApiGateway.403", 
     "cause": "{\"message\":\"Missing Authentication Token\"}"
 }
 ```
